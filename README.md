@@ -1,18 +1,27 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm **Dats4794**, a passionate developer who loves exploring the ever-evolving world of modern web development. I enjoy experimenting with new technologies and building creative solutions that push the boundaries of what's possible on the web.
+Hi there! I'm **Dats4794**, a dedicated full-stack developer specializing in modern web and mobile application development. I'm committed to delivering high-quality solutions using cutting-edge technologies and industry best practices.
 
 ## 🚀 About Me
 
-I'm deeply passionate about modern web development and constantly experimenting with new technologies. I believe in the power of clean, efficient code and love to explore innovative approaches to solving complex problems. Whether it's crafting beautiful user interfaces or building robust backend systems, I'm always eager to learn and grow as a developer.
+I'm a passionate developer with expertise in both web and mobile development, bringing a comprehensive approach to creating exceptional digital experiences. My commitment to best practices, clean architecture, and modern technology stacks enables me to build scalable, maintainable solutions. Whether developing responsive web applications or cross-platform mobile apps, I focus on delivering robust, user-centric products that exceed expectations.
 
-## 🛠️ Tech Stack
+## 🌐 Web Development Tech Stack
 
-Here are some of the technologies I work with:
+Specialized technologies for creating modern, responsive web applications:
 
-- **Alpine.js** - For lightweight, reactive interactivity
-- **Tailwind CSS** - For beautiful, utility-first styling
-- **PHP** - For powerful API endpoints and server-side logic
+- **Alpine.js** - Lightweight JavaScript framework for reactive user interfaces and minimal DOM manipulation
+- **Tailwind CSS** - Utility-first CSS framework for rapid, responsive design implementation
+- **PHP** - Server-side scripting for robust API development and backend logic
+- **MySQL** - Reliable relational database management for data persistence and optimization
+
+## 📱 Mobile Development Tech Stack
+
+Cross-platform mobile development tools for native-quality applications:
+
+- **React Native** - Cross-platform framework for building native mobile applications with JavaScript
+- **NativeWind** - Tailwind CSS integration for React Native, enabling consistent styling across platforms
+- **MySQL** - Backend database integration for mobile app data management and synchronization
 
 ## 📂 Notable Projects
 
