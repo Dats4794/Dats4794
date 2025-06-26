@@ -13,6 +13,7 @@ Here are some of the technologies I work with:
 - **Alpine.js** - For lightweight, reactive interactivity
 - **Tailwind CSS** - For beautiful, utility-first styling
 - **PHP** - For powerful API endpoints and server-side logic
+- **MySQL** - For database management
 
 ## 📂 Notable Projects
 
