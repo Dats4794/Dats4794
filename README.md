@@ -6,13 +6,27 @@ Hi there! I'm **Dats4794**, a passionate developer who loves exploring the ever-
 
 I'm deeply passionate about modern web development and constantly experimenting with new technologies. I believe in the power of clean, efficient code and love to explore innovative approaches to solving complex problems. Whether it's crafting beautiful user interfaces or building robust backend systems, I'm always eager to learn and grow as a developer.
 
+## ⭐ Specialties
+
+I excel in developing sophisticated digital solutions across multiple domains:
+
+- **🌐 High-End MLM Web Applications** - Advanced multi-level marketing platforms with complex commission structures and user hierarchies
+- **🛒 E-Commerce Platforms** - Full-featured online stores with seamless payment integration and inventory management
+- **💳 E-Wallet Systems** - Secure digital payment solutions with real-time transaction processing
+- **💬 Messaging Applications** - Real-time communication platforms with advanced features and scalability
+
 ## 🛠️ Tech Stack
 
-Here are some of the technologies I work with:
-
+### 🌐 Web Development
 - **Alpine.js** - For lightweight, reactive interactivity
 - **Tailwind CSS** - For beautiful, utility-first styling
 - **PHP** - For powerful API endpoints and server-side logic
+- **MySQL** - For robust data management and storage
+
+### 📱 Mobile Development
+- **React Native** - For cross-platform mobile applications
+- **NativeWind** - For consistent styling across mobile platforms
+- **MySQL** - For seamless data synchronization between platforms
 
 ## 📂 Notable Projects
 
