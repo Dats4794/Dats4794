@@ -47,14 +47,14 @@ I'm a passionate developer with expertise in both web and mobile development, br
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC34A?style=for-the-badge&logo=alpine.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
 - **🏔️ Alpine.js** - Lightweight JavaScript framework for reactive user interfaces and minimal DOM manipulation
 - **🎨 Tailwind CSS** - Utility-first CSS framework for rapid, responsive design implementation
 - **🐘 PHP** - Server-side scripting for robust API development and backend logic
-- **🗄️ MySQL** - Reliable relational database management for data persistence and optimization
+- **🐘 PostgreSQL** - Advanced open-source relational database with robust features for mobile app data management
 
 ## 📱 Mobile Development Tech Stack
 
@@ -63,14 +63,16 @@ I'm a passionate developer with expertise in both web and mobile development, br
 <div align="center">
   
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NativeWind](https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
 - **⚛️ React Native** - Cross-platform framework for building native mobile applications with JavaScript
+- **📘 TypeScript** - Strongly typed programming language that builds on JavaScript, providing better tooling and error checking
 - **🌪️ NativeWind** - Tailwind CSS integration for React Native, enabling consistent styling across platforms
-- **🗄️ MySQL** - Backend database integration for mobile app data management and synchronization
+- **🐘 PostgreSQL** - Advanced open-source relational database with robust features for mobile app data management
 
 ## 📂 Notable Projects
 
