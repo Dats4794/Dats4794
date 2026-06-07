@@ -3,8 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Dats4794&color=blue&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/Dats4794?style=flat-square&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/Dats4794?style=flat-square&color=yellow)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/dats4794)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=google-chrome)](https://dats4794.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=google-chrome)](https://dats4794.github.io/portfolio)
 
 Hi there! I'm **Dats4794**, a dedicated full-stack developer specializing in modern web and mobile application development. I'm committed to delivering high-quality solutions using cutting-edge technologies and industry best practices.
 
@@ -118,7 +117,7 @@ I'm a passionate developer with expertise in both web and mobile development, br
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dats4794)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dats4794)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dats4794.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dats4794.github.io/portfolio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:datsbusiness4794@gmail.com)
 
 </div>
