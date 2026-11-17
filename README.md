@@ -1,9 +1,9 @@
 <div align="center">
 ​<!-- Header Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06080F,55:0F172A,100:065F46&height=210&section=header&text=Muhadjerin%20Samulde%20Adal&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Full-Stack%2C%20Mobile%20%26%20FinTech%20Software%20Engineer%20%E2%80%A2%20%40Dats4794&descSize=16&descColor=5EEAD4&descAlignY=62&animation=fadeIn" alt="Muhadjerin Samulde Adal Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06080F,55:0F172A,100:065F46&height=210&section=header&text=Muhadjerin%20Samulde%20Adal&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Full-Stack%2C%20Mobile%20and%20FinTech%20Software%20Engineer%20%E2%80%A2%20%40Dats4794&descSize=16&descColor=5EEAD4&descAlignY=62&animation=fadeIn" alt="Muhadjerin Samulde Adal Banner" />
 ​<!-- Animated Role & Specialty Subtitles -->
 <a href="https://dats4794.github.io/portfolio/">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3200&pause=1000&color=10B981&center=true&vCenter=true&multiline=false&width=760&height=34&lines=6+Years+Shipping+Transaction-Safe+FinTech+%26+Mobile+Systems;Investment+%E2%80%A2+Lending+%E2%80%A2+Insurance+%E2%80%A2+Double-Entry+E-Wallets;x402+Protocol+%E2%80%A2+PayMongo+%E2%80%A2+Xendit+%E2%80%A2+GCash+%E2%80%A2+Maya;Flutter+%E2%80%A2+React+Native+(Expo)+%E2%80%A2+Golang+%E2%80%A2+Rust+%E2%80%A2+2D+Game+Engines" alt="Engineering Specialties" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3200&pause=1000&color=10B981&center=true&vCenter=true&multiline=false&width=760&height=34&lines=6+Years+Shipping+Transaction-Safe+FinTech+%2B+Mobile+Systems;Investment+%E2%80%A2+Lending+%E2%80%A2+Insurance+%E2%80%A2+Double-Entry+E-Wallets;x402+Protocol+%E2%80%A2+PayMongo+%E2%80%A2+Xendit+%E2%80%A2+GCash+%E2%80%A2+Maya;Flutter+%E2%80%A2+React+Native+(Expo)+%E2%80%A2+Golang+%E2%80%A2+Rust+%E2%80%A2+2D+Game+Engines" alt="Engineering Specialties" />
 </a>
 ​<br />
 ​<!-- Primary Action Buttons -->
